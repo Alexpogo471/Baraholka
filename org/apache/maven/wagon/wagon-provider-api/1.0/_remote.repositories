@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 21:34:05 MSK 2022
+wagon-provider-api-1.0.pom>pfom-maven-proxy-group=
+wagon-provider-api-1.0.jar>central=
+wagon-provider-api-1.0.jar>pfom-maven-proxy-group=
+wagon-provider-api-1.0.pom>central=

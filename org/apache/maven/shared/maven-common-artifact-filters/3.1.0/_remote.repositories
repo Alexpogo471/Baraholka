@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 01 14:26:43 MSK 2023
+maven-common-artifact-filters-3.1.0.pom>central=
+maven-common-artifact-filters-3.1.0.pom>pfom-maven-proxy-group=
+maven-common-artifact-filters-3.1.0.jar>central=
+maven-common-artifact-filters-3.1.0.jar>pfom-maven-proxy-group=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 16:06:10 MSK 2022
+commons-lang3-3.4.pom>pfom-maven-proxy-group=
+commons-lang3-3.4.jar>central=
+commons-lang3-3.4.jar>pfom-maven-proxy-group=
+commons-lang3-3.4.pom>central=

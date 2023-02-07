@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 16:06:17 MSK 2022
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven-proxy-group/.lastUpdated=1653991111663
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.error=Could not transfer artifact org.apache.maven.plugins\:maven-install-plugin\:pom\:2.4 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom, status\: 503 Service Under Maintenance
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.error=Could not transfer artifact org.apache.maven.plugins\:maven-install-plugin\:pom\:2.4 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/)\: authorization failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom, status\: 403 Forbidden
+https\://repo.maven.apache.org/maven2/.lastUpdated=1665407177665
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1653990925907
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.error=Could not transfer artifact org.apache.maven.plugins\:maven-install-plugin\:pom\:2.4 from/to pfom-maven-proxy-group (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/)\: authorization failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.pom, status\: 403 Forbidden
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1652879812213
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1653990925797

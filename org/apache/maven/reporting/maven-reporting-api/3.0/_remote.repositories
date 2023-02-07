@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 21:33:27 MSK 2022
+maven-reporting-api-3.0.pom>central=
+maven-reporting-api-3.0.pom>pfom-maven-proxy-group=
+maven-reporting-api-3.0.jar>pfom-maven-proxy-group=
+maven-reporting-api-3.0.jar>central=

@@ -1,0 +1,31 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 18 16:11:33 MSK 2022
+978dd9c11e04a77ffca35ddc605efbb50d500ebc@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1652266550652
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1652264906853
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1652265908096
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1652877968131
+978dd9c11e04a77ffca35ddc605efbb50d500ebc@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven/.lastUpdated=1652266581408
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/vacr-maven-snapshot/.lastUpdated=1652266181725
+https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven-proxy-group/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-proxy-group (https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven-proxy-group)\: transfer failed for https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven-proxy-group/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1651845228063
+https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven)\: transfer failed for https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/service/rest/repository/browse/pfomb-maven/.lastUpdated=1652264975390
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom
+bf87b1c1324401e9bfeeadb9c33c3eaabbb5cebf@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven-proxy-group/.lastUpdated=1652878467611
+https\://nexus-ci.corp.dev.vtb/repository/vacr-maven-snapshot/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/vacr-maven-snapshot/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/repository/vacr-maven-snapshot/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1652264875756
+978dd9c11e04a77ffca35ddc605efbb50d500ebc@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1652266550627
+@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1651845207013
+bf87b1c1324401e9bfeeadb9c33c3eaabbb5cebf@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1652878467695
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-proxy-group (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/)\: authentication failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom, status\: 401 Unauthorized
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/\#browse/browse\:pfomb-maven-proxy-group/.lastUpdated=1652265840136
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1652265908120
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/)\: authentication failed for https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom, status\: 401 Unauthorized
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1652877968059
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven-proxy-group/.lastUpdated=1652879493134
+bf4ea6f8e3005cc7ac183ccf109b102f76db3b46@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/service/rest/repository/browse/pfomb-maven/.lastUpdated=1652264975413
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/)\: authentication failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom, status\: 401 Unauthorized
+https\://nexus-ci.corp.dev.vtb/service/rest/repository/browse/pfomb-maven/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:4.3.2 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/service/rest/repository/browse/pfomb-maven/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/service/rest/repository/browse/pfomb-maven/io/rest-assured/rest-assured/4.3.2/rest-assured-4.3.2.pom
+bf87b1c1324401e9bfeeadb9c33c3eaabbb5cebf@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1652878292968
+@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1651845206982
+bf87b1c1324401e9bfeeadb9c33c3eaabbb5cebf@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1652878293325

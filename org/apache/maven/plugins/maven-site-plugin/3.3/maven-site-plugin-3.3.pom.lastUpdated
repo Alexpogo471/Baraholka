@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 21:33:31 MSK 2022
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-proxy-group-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.lastUpdated=1653990926051
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.3 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.3 from/to pfom-maven-proxy-group (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/)\: authorization failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-proxy-group/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom, status\: 403 Forbidden
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven-proxy-group/.lastUpdated=1654595261974
+https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:pom\:3.3 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/)\: authorization failed for https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.pom, status\: 403 Forbidden
+https\://repo.spring.io/milestone/.lastUpdated=1663007611306
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfom-maven-lib/.lastUpdated=1653990926101
+https\://repo.maven.apache.org/maven2/.lastUpdated=1663007611369
+https\://repo.spring.io/milestone/.error=
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1654250216463

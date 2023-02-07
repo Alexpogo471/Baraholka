@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 12 21:31:33 MSK 2022
+https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.error=Could not transfer artifact io.rest-assured\:rest-assured-bom\:pom\:5.1.1 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/io/rest-assured/rest-assured-bom/5.1.1/rest-assured-bom-5.1.1.pom
+https\://repo.spring.io/milestone/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1663007493519
+https\://repo.spring.io/milestone/.lastUpdated=1663007493392
+7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1663007422340

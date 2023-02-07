@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 12 10:45:53 MSK 2022
+maven-plugin-descriptor-2.0.9.jar>central=
+maven-plugin-descriptor-2.0.9.pom>central=
+maven-plugin-descriptor-2.0.9.pom>pfom-maven-proxy-group=
+maven-plugin-descriptor-2.0.9.jar>pfom-maven-proxy-group=

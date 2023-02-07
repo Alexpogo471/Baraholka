@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 16:06:18 MSK 2022
+maven-deploy-plugin-2.7.pom>pfom-maven-proxy-group=
+maven-deploy-plugin-2.7.jar>pfom-maven-proxy-group=
+maven-deploy-plugin-2.7.jar>central=
+maven-deploy-plugin-2.7.pom>central=

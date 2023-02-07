@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 15:53:46 MSK 2022
+httpclient5-5.0-javadoc.jar>central=
+httpclient5-5.0.jar>central=
+httpclient5-5.0-sources.jar>central=
+httpclient5-5.0.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 01 14:26:43 MSK 2023
+ant-1.10.3.pom>central=
+ant-1.10.3.pom>pfom-maven-proxy-group=
+ant-1.10.3.jar>pfom-maven-proxy-group=
+ant-1.10.3.jar>central=

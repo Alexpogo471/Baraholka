@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 15:50:16 MSK 2022
+maven-compiler-plugin-3.8.1.jar>central=
+maven-compiler-plugin-3.8.1.pom>central=
+maven-compiler-plugin-3.8.1.pom>pfom-maven-proxy-group=
+maven-compiler-plugin-3.8.1.jar>pfom-maven-proxy-group=

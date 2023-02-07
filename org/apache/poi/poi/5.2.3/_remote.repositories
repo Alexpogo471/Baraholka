@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 13 13:27:41 MSK 2022
+poi-5.2.3.jar>central=
+poi-5.2.3-sources.jar>central=
+poi-5.2.3.pom>central=

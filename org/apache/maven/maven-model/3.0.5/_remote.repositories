@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 24 18:03:38 MSK 2023
+maven-model-3.0.5.jar>pfom-maven-proxy-group=
+maven-model-3.0.5.jar>central=
+maven-model-3.0.5.pom>central=
+maven-model-3.0.5.pom>pfom-maven-proxy-group=

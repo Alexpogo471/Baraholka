@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 01 14:26:43 MSK 2023
+maven-surefire-plugin-3.0.0-M5.jar>central=
+maven-surefire-plugin-3.0.0-M5.pom>central=
+maven-surefire-plugin-3.0.0-M5.pom>pfom-maven-proxy-group=
+maven-surefire-plugin-3.0.0-M5.jar>pfom-maven-proxy-group=
