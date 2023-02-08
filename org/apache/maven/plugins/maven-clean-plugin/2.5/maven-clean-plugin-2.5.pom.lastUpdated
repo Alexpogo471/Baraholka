@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Oct 10 16:06:17 MSK 2022
-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven-proxy-group/.lastUpdated=1653925311455
-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to pfom-maven-lib (https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/)\: transfer failed for https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
-https\://repo.maven.apache.org/maven2/.lastUpdated=1665407177111
-7ba44827020deab83ccb9e5679ffdc7b8ac3d5f5@default-pfom-maven-lib-https\://nexus-ci.corp.dev.vtb/repository/pfomb-maven/.lastUpdated=1653925255958
